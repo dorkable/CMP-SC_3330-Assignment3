@@ -1,0 +1,16 @@
+com\example\haunted\engine\GameEngineTest.class
+com\example\haunted\engine\MovementTest.class
+com\example\haunted\rules\QuestRuleTest.class
+com\example\haunted\model\InventoryTest.class
+com\example\haunted\config\GameConfigTest.class
+com\example\haunted\events\MovementEventTest.class
+com\example\haunted\model\MonsterTest.class
+com\example\haunted\engine\InteractionTest.class
+com\example\haunted\model\PlayerTest.class
+com\example\haunted\rules\DamageRuleTest.class
+com\example\haunted\events\CombatEventTest.class
+com\example\haunted\rules\TrapRuleTest.class
+com\example\haunted\model\ItemTest.class
+com\example\haunted\events\InteractionEventTest.class
+com\example\haunted\model\RoomTest.class
+com\example\haunted\engine\CombatTest.class
