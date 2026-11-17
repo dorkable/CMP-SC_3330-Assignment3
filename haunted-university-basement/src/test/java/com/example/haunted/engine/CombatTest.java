@@ -21,7 +21,7 @@ public class CombatTest {
         CombatResult result = game.attack("Sleep-Deprived TA");
 
         assertTrue(result.isSuccess());
-        assertTrue(result.getDamageDealt() > 0);
+        assertTrue(result.getDamageToMonster() > 0);
     }
 
     @Test
