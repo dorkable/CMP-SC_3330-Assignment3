@@ -10,5 +10,6 @@ import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.ValueSource;
 
 public class InteractionTest {
-	system.out.println("hello!");
+	GameEngine game = DungeonFactory.createGame();
+	InteractionResult interaction = InteractionResult.pickUpItem();
 }
