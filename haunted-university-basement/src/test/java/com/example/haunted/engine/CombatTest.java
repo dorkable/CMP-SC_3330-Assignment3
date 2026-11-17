@@ -31,7 +31,7 @@ public class CombatTest {
     engine = new CombatEngine();
     room = new Room();
     player = new Player();
-    quest = new Quest();
+    quest = new Quest("Escape the basement");
   }
   
 
