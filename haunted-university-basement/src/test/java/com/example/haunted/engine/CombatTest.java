@@ -21,4 +21,15 @@ import com.example.haunted.rules.QuestTracker;
 
 public class CombatTest {
 
+  private CombatEngine engine;
+  private Room room;
+  private Player player;
+  private Quest quest;
+
+  @BeforeEach
+  void setUp(){
+
+  }
+  
+
 }
