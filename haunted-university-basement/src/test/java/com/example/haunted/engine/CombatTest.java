@@ -28,7 +28,10 @@ public class CombatTest {
 
   @BeforeEach
   void setUp(){
-
+    engine = new CombatEngine();
+    room = new Room();
+    player = new Player();
+    quest = new Quest();
   }
   
 
